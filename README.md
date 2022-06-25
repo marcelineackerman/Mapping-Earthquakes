@@ -7,9 +7,15 @@ Using the `Leaflet.js` library, `Javascript`, and `HTML/CSS` to create interacti
 
 **Satellite Map with all earthquakes visualized**
 
+![image](https://user-images.githubusercontent.com/100869713/175784534-a8d4d002-2daf-48f2-8c52-d6ff96a3f508.png)
+
 **Dark Map with only major earthquakes visualized**
 
+![image](https://user-images.githubusercontent.com/100869713/175784543-25f49395-d89c-480f-bac6-57234197f15e.png)
+
 **Streets map with tectonic plates visualized**
+
+![image](https://user-images.githubusercontent.com/100869713/175784548-840ef2cd-dd41-4af9-af50-07ec04a97187.png)
 
 ## Tools and Software
 
